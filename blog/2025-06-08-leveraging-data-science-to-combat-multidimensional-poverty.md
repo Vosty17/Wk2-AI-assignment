@@ -2,7 +2,7 @@
 layout: post
 title: "Leveraging Data Science to Combat Multidimensional Poverty"
 date: 2025-06-08
-author: Cedrick, Stephen, Oliver Antonet, Niver
+author: Cedrick, Stephen, Oliver, Antonet, Niver
 categories: [Data Science, Poverty Reduction, Sustainable Development]
 tags: [data science, machine learning, SDG, poverty, analytics]
 image: /assets/images/poverty-data-science-cover.jpg
