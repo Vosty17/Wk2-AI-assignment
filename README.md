@@ -2,7 +2,8 @@
 # MULTIDIMENSIONAL POVERTY ANALYSIS
 This project analyses multidimensional poverty data using statistical methods, machine learning, and visualization techniques. The analysis includes data cleaning, exploratory data analysis (EDA), predictive modelling, clustering, and visualization of poverty patterns across countries.
 
-
+## Screenshot Comparing testing and predicted values
+![Demo Screenshot](https://github.com/Vosty17/Demo_Screenshot.png/blob/main/Screenshot%20(205).jpg )
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
@@ -38,7 +39,6 @@ To run this code, you'll need:
   pandas
   matplotlib
   scikit-learn
-
 ## Implementation
 The analysis is divided into 5 main steps:
 
@@ -91,4 +91,3 @@ The code generates several visualizations saved as PNG files:
 To analyze a specific country's deprivation profile, call:
 ```python
 plot_radar_chart('Country_Name')
-
