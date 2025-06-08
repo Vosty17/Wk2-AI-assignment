@@ -58,6 +58,7 @@ The analysis is divided into 5 main steps:
 - Features: Education, Health, and living standards deprivation
 - Model evaluation using R-squared metric
 - Feature importance analysis
+![Demo_video](images/Demo_video.mp4)
 
 ### 4. Poverty Cluster Analysis
 - K-means clustering (k=4) to group countries by deprivation patterns
