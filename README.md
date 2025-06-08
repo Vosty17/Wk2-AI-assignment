@@ -4,6 +4,8 @@ This project analyses multidimensional poverty data using statistical methods, m
 
 ## Screenshot Comparing testing and predicted values
 ![Demo Screenshot](https://github.com/Vosty17/Demo_Screenshot.png/blob/main/Screenshot%20(205).jpg )
+## Blog
+[Blog](https://gamma.app/docs/Revolutionizing-Poverty-Prediction-Our-ML-Model-7ojcskjrx7ou6l2)
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
